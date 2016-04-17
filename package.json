@@ -1,0 +1,14 @@
+{
+  "name": "translate-chrome-extension",
+  "version": "1.0.0",
+  "description": "",
+  "author": "tuki0918 <tuki0918@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tuki0918/translate-chrome-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tuki0918/translate-chrome-extension/issues"
+  }
+}
